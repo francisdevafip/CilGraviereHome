@@ -1,7 +1,8 @@
 # CilGraviereHome
 Projet pour le site vitrine du Cil Graviere
 
-Il contiendra plusieurs branches : 
+Il contiendra plusieurs branches :
+
 -Master : les versions finalisées uniquement validées par Francis
 
 -WordpressMaster les fichiers des versions finalisées validées par Francis du site vitrine en Wordpress 
