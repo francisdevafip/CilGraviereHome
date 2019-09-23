@@ -1,6 +1,8 @@
 # CilGraviereHome
 Projet pour le site vitrine du Cil Graviere
 
+Lien vers le trello : https://trello.com/b/FGw3CJo0/vide-grenier
+
 Il contiendra plusieurs branches :
 
 -Master : les versions finalisées uniquement validées par Francis
